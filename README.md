@@ -5,3 +5,4 @@ The list starts here :
 1. Smart contract to find the ether balance of any given ethereum address
 2. Smart contract to implement a decentralised voting system
 3. Smart contract to check whether given ethereum address is a contract or EOA
+4. Smart contract to mimic a blood bank
