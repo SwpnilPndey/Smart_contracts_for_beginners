@@ -6,7 +6,7 @@ contract also maintains every blood transaction linked to the patient.
 
 The records are maintained as : 
 
-When a patient comes to the blood bank. When he visits first time, his details are taken and he is registered.
+Suppose a patient comes to the blood bank. If he is visiting first time, his details are taken and he is registered.
 This way a list of patients is maintained. At the same time, along with the details of the patient, 
 the ledger also stores the list of transactions in which the patient is involved in. So, that whenever a receiver 
 receives blood, he can track down who is donating the blood and what is the donor's history.
