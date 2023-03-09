@@ -6,3 +6,4 @@ The list starts here :
 2. Smart contract to implement a decentralised voting system
 3. Smart contract to check whether given ethereum address is a contract or EOA
 4. Smart contract to mimic a blood bank
+5. Smart contract to mimic decision making in a DAO
