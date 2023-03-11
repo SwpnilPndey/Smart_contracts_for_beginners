@@ -10,3 +10,4 @@ The list starts here :
 6. Smart contract to withdraw funds from a smart contract 
 7. Smart contract to create a simple token with ERC-20 compliance
 8. Smart contract to raise funds through Initial Coin Offerings
+9. Smart contract to create a simple NFT with ERC-721 compliance
