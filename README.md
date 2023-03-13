@@ -2,13 +2,14 @@ This ReadMe provides the list of ethereum smart contracts projects in the reposi
 
 The list starts here :
 
-1. Smart contract to find the ether balance of any given ethereum address
-2. Smart contract to implement a decentralised voting system
-3. Smart contract to check whether given ethereum address is a contract or EOA
-4. Smart contract to mimic a blood bank
-5. Smart contract to mimic decision making in a DAO
-6. Smart contract to withdraw funds from a smart contract 
-7. Smart contract to create a simple token with ERC-20 compliance
-8. Smart contract to raise funds through Initial Coin Offerings
-9. Smart contract to create a simple NFT with ERC-721 compliance
+01. Smart contract to find the ether balance of any given ethereum address
+02. Smart contract to implement a decentralised voting system
+03. Smart contract to check whether given ethereum address is a contract or EOA
+04. Smart contract to mimic a blood bank
+05. Smart contract to mimic decision making in a DAO
+06. Smart contract to withdraw funds from a smart contract 
+07. Smart contract to create a simple token with ERC-20 compliance
+08. Smart contract to raise funds through Initial Coin Offerings
+09. Smart contract to create a simple NFT with ERC-721 compliance
 10. Smart contract to mimic a lottery
+11. Smart contract to mimic a simple marketplace to buy and sell items
