@@ -13,3 +13,4 @@ The list starts here :
 09. Smart contract to create a simple NFT with ERC-721 compliance
 10. Smart contract to mimic a lottery
 11. Smart contract to mimic a simple marketplace to buy and sell items
+12. Smart contract to mimic a simple crowdfunding process for a project
