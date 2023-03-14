@@ -1,5 +1,7 @@
 //SPDX-License-Identifier:GPL-3.0
 
+/* This smart contract mimics a simple decentralised marketplace where users can buy and sell products. 
+*/
 pragma solidity ^0.8.0;
 
 contract Marketplace {
