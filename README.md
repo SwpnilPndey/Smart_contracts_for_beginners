@@ -15,3 +15,4 @@ The list starts here :
 11. Smart contract to mimic a simple marketplace to buy and sell items
 12. Smart contract to mimic a simple crowdfunding process for a project
 13. Smart contract to implement an ewcrow system to transfer amount from buyer to seller
+14. Smart contract to implement a supply chain management system
