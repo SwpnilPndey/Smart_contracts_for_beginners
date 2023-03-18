@@ -17,3 +17,4 @@ The list starts here :
 13. Smart contract to implement an ewcrow system to transfer amount from buyer to seller
 14. Smart contract to implement a supply chain management system
 15. Smart contract to implement a decentralised reputation system for project contribution
+16) Smart contract to implement a multisignature wallet 

@@ -51,7 +51,7 @@ contract MyNFT {
 
     uint256 private _totalSupply = 0;
 
-    
+   
     function balanceOf(address _owner) public view returns (uint256) {
         return _ownershipTokenCount[_owner];
     }
