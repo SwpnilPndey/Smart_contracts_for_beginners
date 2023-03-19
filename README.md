@@ -19,3 +19,4 @@ The list starts here :
 15. Smart contract to implement a decentralised reputation system for project contribution
 16) Smart contract to implement a multisignature wallet 
 17) Smart contract to create an ERC-20 token using openzeppelin library inbuilt functions
+18) Smart contract to mint NFTs using open zeepelin library
