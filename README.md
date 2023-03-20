@@ -20,3 +20,4 @@ The list starts here :
 16) Smart contract to implement a multisignature wallet 
 17) Smart contract to create an ERC-20 token using openzeppelin library inbuilt functions
 18) Smart contract to mint NFTs using open zeepelin library
+19) Smart contract to mimic a simple todo list
