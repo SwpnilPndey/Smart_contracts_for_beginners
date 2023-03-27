@@ -14,11 +14,11 @@ The list starts here :
 10. Smart contract to mimic a lottery
 11. Smart contract to mimic a simple marketplace to buy and sell items
 12. Smart contract to mimic a simple crowdfunding process for a project
-13. Smart contract to implement an ewcrow system to transfer amount from buyer to seller
+13. Smart contract to implement an escrow system to transfer amount from buyer to seller
 14. Smart contract to implement a supply chain management system
 15. Smart contract to implement a decentralised reputation system for project contribution
-16) Smart contract to implement a multisignature wallet 
-17) Smart contract to create an ERC-20 token using openzeppelin library inbuilt functions
-18) Smart contract to mint NFTs using open zeepelin library
-19) Smart contract to mimic a simple todo list
-20) Smart contract to implement a decentralised job portal for unorganised sector
+16. Smart contract to implement a multisignature wallet 
+17. Smart contract to create an ERC-20 token using openzeppelin library inbuilt functions
+18. Smart contract to mint NFTs using open zeepelin library
+19. Smart contract to mimic a simple todo list
+20. Smart contract to implement a decentralised job portal for unorganised sector

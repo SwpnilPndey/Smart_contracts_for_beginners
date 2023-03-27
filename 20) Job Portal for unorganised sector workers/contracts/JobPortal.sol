@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: GPL-3.0
 
 /* This smart contract implements a job portal system which connects unskilled and unorganized
  migrant workers with job providers. It can eliminate their exploitation by middlemen, 
