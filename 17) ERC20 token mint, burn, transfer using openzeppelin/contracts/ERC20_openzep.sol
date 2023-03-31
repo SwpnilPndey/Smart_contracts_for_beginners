@@ -1,6 +1,6 @@
 //SPDX-License-Identifier:GPL-3.0
 
-
+/* This smart contract is used to create new ERC20 token using openzeppelin library. */
 
 pragma solidity ^0.8.18;
 
