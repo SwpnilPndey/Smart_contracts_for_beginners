@@ -27,7 +27,7 @@ contract NewNFT is ERC721URIStorage, Ownable {
 
     Counters.Counter private _tokenIDs;
 
-    constructor() ERC721("Royal Enfield","ENFLD") {}
+    constructor() ERC721("Royal Enfield","BULLET") {}
     
     // This constructor only gives branding to the NFT and doesnot create a NFT. 
     // For creating a NFT, minting function has to be used with a _to address and a tokenURI
