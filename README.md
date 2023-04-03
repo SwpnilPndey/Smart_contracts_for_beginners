@@ -22,3 +22,4 @@ The list starts here :
 18. Smart contract to mint NFTs using open zeepelin library
 19. Smart contract to mimic a simple todo list
 20. Smart contract to implement a decentralised job portal for unorganised sector
+21. Smart contract to implement a NFT marketplace
