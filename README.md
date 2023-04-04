@@ -1,4 +1,4 @@
-This ReadMe provides the list of ethereum smart contracts projects in the repository. Every smart contract is indexed to its appropriate number in this ReadMe file for better references. The respository is primarly useful for the new solidity developers who have started learning solidity and need projects to practice from. Every smart contract has extensive comments to understand the scope of the project. Happy learning !
+Here you can find the list of ethereum smart contracts projects in the repository. Every smart contract is indexed to its appropriate number in this ReadMe file for better references. The respository is primarly useful for the new solidity developers who have started learning solidity and need projects to practice from. Every smart contract has extensive comments to understand the scope of the project. Happy learning !
 
 The list starts here :
 
