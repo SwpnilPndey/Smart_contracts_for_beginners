@@ -44,4 +44,11 @@ module.exports = {
     }),
   ],
   stats: "minimal",
+
+  resolve: {
+    fallback: {
+      "http": require.resolve("stream-http")
+    }
+  }
+  
 };

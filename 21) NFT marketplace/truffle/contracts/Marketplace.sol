@@ -5,7 +5,7 @@ import "../node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol";
 import "../node_modules/@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 contract Marketplace is ReentrancyGuard {
-    address payable public immutable feeAccount;
+    address payable public immutable feeAccount; //immutable means value can't change
     uint public immutable feePercent;
     uint public itemCount;
 
