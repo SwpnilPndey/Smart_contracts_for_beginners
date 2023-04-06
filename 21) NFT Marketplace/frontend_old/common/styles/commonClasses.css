@@ -1,0 +1,14 @@
+.centered-component {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.max-width {
+    max-width: 80%;
+}
+
+.cur-po {
+    cursor: pointer;
+}
+

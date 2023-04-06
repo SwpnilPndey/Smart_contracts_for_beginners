@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Sedgwick+Ave+Display&display=swap');
+
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border: solid 2px black;
+    font-size: 20px;
+}
+
+.navbar-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo {
+    margin-right: 60px;
+}
+
+.logo-name {
+    font-family: 'Bungee Spice', cursive;
+    font-size: 25px;
+    margin-right: 10px;
+
+}
+
+
+.img {
+    height: 30px ;
+    width: 35px;
+}
+
+
+
+.metamask-button>input{
+    font-size: 15px;
+    height: 25px;
+    margin-left: 100px;
+}
